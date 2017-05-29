@@ -21,6 +21,15 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * [Corsair Gaming MM400](http://a.co/cE8WvFS)
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
 
-# Applications
+# Useful Applications
 * Wallcat
 * Dropbox
+
+# Development Applications
+* Sublime Text
+* Git Bash
+* Composer
+* MAMP
+* PuTTY
+* SQL Developer
+* Crystal Reports
