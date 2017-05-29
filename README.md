@@ -11,3 +11,16 @@ All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and 
 
 ### Sublime Text Theme
 I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It's one I created inspired by some design I saw a couple of years back. I still use it on all my devices and occasionally update the colors to a newer design.
+
+# Desktop Specs
+* [EVGA Z170 FTW](http://a.co/7OmnZSf)
+
+# Accessories
+* Corsair Gaming K70 LUX RGB
+* Logitech G502 Proteus Core
+* [Corsair Gaming MM400](http://a.co/cE8WvFS)
+* [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
+
+# Applications
+* Wallcat
+* Dropbox
