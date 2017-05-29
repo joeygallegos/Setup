@@ -1,4 +1,4 @@
-# Development-Setup
+# Development Tools and Setup
 This repository is to show and provide instructions on how to replicate my enviroment for my work PC.
 
 ### Composer
