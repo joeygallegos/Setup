@@ -28,6 +28,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 # Development Applications
 * Sublime Text
 * Git Bash
+* Github Desktop
 * Composer
 * MAMP
 * PuTTY
