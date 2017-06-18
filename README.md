@@ -33,3 +33,6 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * PuTTY
 * SQL Developer
 * Crystal Reports
+
+# Sublime Text Helpers
+- [SQLTools](http://code.mteixeira.me/SQLTools/)
