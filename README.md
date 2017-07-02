@@ -20,6 +20,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * Logitech G502 Proteus Core
 * [Corsair Gaming MM400](http://a.co/cE8WvFS)
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
+* [Sony MDRXB50AP Extra Bass Earbuds](http://a.co/3FyBACN)
 
 # Useful Applications
 * Wallcat
