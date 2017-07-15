@@ -13,7 +13,9 @@ All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and 
 I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It's one I created inspired by some design I saw a couple of years back. I still use it on all my devices and occasionally update the colors to a newer design.
 
 # Desktop Specs
-* [EVGA Z170 FTW](http://a.co/7OmnZSf)
+* [Corsair Vengeance LPX 16GB DDR4](http://a.co/b1hAKA6)
+* [EVGA Z170 FTW](http://a.co/cvEDMvy)
+* [Intel Core i7 6700K 4.00 GHz Unlocked](http://a.co/cHR3Vgt)
 
 # Accessories
 * Corsair Gaming K70 LUX RGB
