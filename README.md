@@ -23,7 +23,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * [Sony MDRXB50AP Extra Bass Earbuds](http://a.co/3FyBACN)
 
 # Useful Applications
-* Wallcat
+* [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
 * Dropbox
 
 # Development Applications
