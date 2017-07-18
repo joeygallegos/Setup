@@ -38,7 +38,9 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * SQL Developer
 * Crystal Reports
 
-# Sublime Text Helpers
+# Sublime Text Tools
+- [Jam](https://github.com/joeygallegos/Jam)
 - [SQLTools](http://code.mteixeira.me/SQLTools/)
-- [Materialize](https://github.com/saadq/Materialize)
+- [Materialize(Spacegray)](https://github.com/saadq/Materialize)
 - [Appbar](https://github.com/saadq/Materialize-Appbar)
+- [Meslo(Font)](https://github.com/andreberg/Meslo-Font)
