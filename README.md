@@ -37,6 +37,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * PuTTY
 * SQL Developer
 * Crystal Reports
+* [Postman](https://www.getpostman.com/apps)
 
 # Sublime Text Tools
 - [Jam](https://github.com/joeygallegos/Jam)
