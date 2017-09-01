@@ -1,0 +1,13 @@
+{
+	"font_face": "Meslo LG S DZ",
+	"color_scheme": "Packages/User/Jam/Jam.tmTheme",
+	"theme": "Material Spacegray.sublime-theme",
+	"material_theme_accent_purple": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"bold_folder_labels": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
