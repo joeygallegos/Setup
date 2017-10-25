@@ -28,6 +28,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 # Useful Applications
 * [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
 * Dropbox
+* [AudioSwitch](https://github.com/sirWest/AudioSwitch)
 
 # Development Applications
 * Sublime Text
