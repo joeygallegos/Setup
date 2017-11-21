@@ -14,6 +14,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 
 # Desktop Specs
 * [Corsair Vengeance LPX 16GB DDR4](http://a.co/b1hAKA6)
+* [ASUS Geforce GTX 1050 Ti 4GB ROG STRIX](http://a.co/hbEWfcS)
 * [EVGA Z170 FTW](http://a.co/cvEDMvy)
 * [Intel Core i7 6700K 4.00 GHz Unlocked](http://a.co/cHR3Vgt)
 * TP-LINK TL-WDN4800
