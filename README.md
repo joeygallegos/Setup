@@ -48,3 +48,4 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 - [Materialize(Spacegray)](https://github.com/saadq/Materialize)
 - [Appbar](https://github.com/saadq/Materialize-Appbar)
 - [Meslo(Font)](https://github.com/andreberg/Meslo-Font)
+- [GitGutter](https://github.com/jisaacks/GitGutter)
