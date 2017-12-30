@@ -25,6 +25,9 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * [Corsair Gaming MM400](http://a.co/cE8WvFS)
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
 * [Sony MDRXB50AP Extra Bass Earbuds](http://a.co/3FyBACN)
+* [Logitech G433 7.1 Wired Gaming Headset](http://a.co/781EA7I)
+* [Marantz Professional MPM-1000U](http://a.co/jdhlal3)
+* [Focusrite Scarlett Solo](http://a.co/1pEmPvE)
 
 # Useful Applications
 * [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
