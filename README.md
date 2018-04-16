@@ -45,6 +45,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * Crystal Reports
 * [Postman](https://www.getpostman.com/apps)
 * [HeidiSQL](https://www.heidisql.com/)
+* [PopSQL](https://popsql.io/)
 
 # Sublime Text Tools
 - [Jam](https://github.com/joeygallegos/Jam)
