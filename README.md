@@ -13,15 +13,16 @@ All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and 
 I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It's one I created inspired by some design I saw a couple of years back. I still use it on all my devices and occasionally update the colors to a newer design.
 
 # Desktop Specs
-* [Corsair Vengeance LPX 16GB DDR4](http://a.co/b1hAKA6)
+* [Corsair Vengeance RGB LED 16GB (2x8GB) DDR4 3000](http://a.co/0P0bpPD)
 * [ASUS Geforce GTX 1050 Ti 4GB ROG STRIX](http://a.co/hbEWfcS)
+* [Corsair CW-9060025-WW Hydro Series H100i v2](http://a.co/bYkMzBy)
 * [EVGA Z170 FTW](http://a.co/cvEDMvy)
-* [Intel Core i7 6700K 4.00 GHz Unlocked](http://a.co/cHR3Vgt)
+* [Intel Core i7 7700K 4.20 GHz Unlocked](http://a.co/eCuHqY5)
 * TP-LINK TL-WDN4800
 
 # Accessories
 * Corsair Gaming K70 LUX RGB
-* Logitech G502 Proteus Core
+* [Logitech G502 Proteus Core](http://a.co/de3nhKv)
 * [Corsair Gaming MM400](http://a.co/cE8WvFS)
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
 * [Sony MDRXB50AP Extra Bass Earbuds](http://a.co/3FyBACN)
