@@ -1,16 +1,8 @@
 # Development Tools and Setup
 This repository is to show and provide instructions on how to replicate my enviroment for my work PC.
 
-### Composer
-Always make sure that the ``extension_dir`` is unmarked and the openssl extension is enabled in the ``php.ini`` config.
-
-
-
-### Backup
+### Backing up data
 All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and Desktop. If I make a change on my desktop PC I can easily move to remote working on my laptop without any issues.
-
-### Sublime Text Theme
-I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It's one I created inspired by some design I saw a couple of years back. I still use it on all my devices and occasionally update the colors to a newer design.
 
 # Television
 * [Samsung 6 Series UN50MU6300F 4K UHD TV 50"](http://a.co/aR400UT)
@@ -26,7 +18,7 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 * TP-LINK TL-WDN4800
 
 # Accessories
-* Corsair Gaming K70 LUX RGB
+* [Corsair Gaming K70 LUX RGB](http://a.co/hzH0ngF)
 * [Logitech G502 Proteus Core](http://a.co/de3nhKv)
 * [Corsair Gaming MM400](http://a.co/cE8WvFS)
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
@@ -61,3 +53,6 @@ I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It
 - [Appbar](https://github.com/saadq/Materialize-Appbar)
 - [Meslo(Font)](https://github.com/andreberg/Meslo-Font)
 - [GitGutter](https://github.com/jisaacks/GitGutter)
+
+### Sublime Text Theme
+I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It's one I created inspired by some design I saw a couple of years back. I still use it on all my devices and occasionally update the colors to a newer design.
