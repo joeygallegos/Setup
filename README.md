@@ -12,6 +12,11 @@ All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and 
 ### Sublime Text Theme
 I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It's one I created inspired by some design I saw a couple of years back. I still use it on all my devices and occasionally update the colors to a newer design.
 
+# Television
+* [Samsung 6 Series UN50MU6300F 4K UHD TV 50"](http://a.co/aR400UT)
+* [Fire TV Stick with Alexa Voice Remote](http://a.co/iHjJC9u)
+* [PlayStation Vue](https://www.playstation.com/en-us/network/vue/v)
+
 # Desktop Specs
 * [Corsair Vengeance RGB LED 16GB (2x8GB) DDR4 3000](http://a.co/0P0bpPD)
 * [ASUS Geforce GTX 1050 Ti 4GB ROG STRIX](http://a.co/hbEWfcS)
