@@ -1,5 +1,5 @@
 # About
-This repository is to show and provide instructions on how to replicate my enviroment for my work PC.
+This repository is mostly for me. This repository is to list out all the equipment, software and stuff I buy.
 
 ### Backing up data
 All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and Desktop. If I make a change on my desktop PC I can easily move to remote working on my laptop without any issues.
