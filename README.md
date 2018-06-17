@@ -1,4 +1,4 @@
-# Development Tools and Setup
+# About
 This repository is to show and provide instructions on how to replicate my enviroment for my work PC.
 
 ### Backing up data
