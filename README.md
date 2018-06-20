@@ -26,11 +26,19 @@ All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and 
 * [Logitech G433 7.1 Wired Gaming Headset](http://a.co/781EA7I)
 * [Marantz Professional MPM-1000U](http://a.co/jdhlal3)
 * [Focusrite Scarlett Solo](http://a.co/1pEmPvE)
+* [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
+* [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
 
 # Useful Applications
 * [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
 * Dropbox
 * [AudioSwitch](https://github.com/sirWest/AudioSwitch)
+
+# Gaming Applications
+* [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
+* [Corsair Utility Engine](https://www.corsair.com/us/en/downloads)
+* [ASUS GPU TweakII](https://www.asus.com/us/site/graphics-cards/gpu-tweak-ii/)
+* [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 
 # Development Applications
 * Sublime Text
