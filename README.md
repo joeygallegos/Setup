@@ -4,6 +4,9 @@ This repository is mostly for me. This repository is to list out all the equipme
 ### Backing up data
 All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and Desktop. If I make a change on my desktop PC I can easily move to remote working on my laptop without any issues.
 
+### Funny Repository
+There is this funny repository that I suggest any visitor check out: [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+
 # Television
 * [Samsung 6 Series UN50MU6300F 4K UHD TV 50"](http://a.co/aR400UT)
 * [Fire TV Stick with Alexa Voice Remote](http://a.co/iHjJC9u)
