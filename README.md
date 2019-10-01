@@ -1,5 +1,5 @@
 # About
-This repository is mostly for me. This repository is to list out all the equipment, software and stuff I buy.
+This repository is mostly for me. This repository is to list out all the equipment, software and things I own.
 
 ### Backing up data
 All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and Desktop. If I make a change on my desktop PC I can easily move to remote working on my laptop without any issues.
@@ -11,6 +11,10 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Samsung 6 Series UN50MU6300F 4K UHD TV 50"](http://a.co/aR400UT)
 * [Fire TV Stick with Alexa Voice Remote](http://a.co/iHjJC9u)
 * [PlayStation Vue](https://www.playstation.com/en-us/network/vue/v)
+
+# Camera
+* [PANASONIC LUMIX GX85 4K Digital Camera](https://www.amazon.com/gp/product/B079VDF7ZG)
+* [Canon EOS Rebel T5 EF-S 18-55mm](https://www.amazon.com/gp/product/B016SN90HQ)
 
 # Desktop Specs
 * [Corsair Vengeance RGB LED 16GB (2x8GB) DDR4 3000](http://a.co/0P0bpPD)
