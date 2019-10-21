@@ -29,6 +29,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 
 # Accessories
 * [Corsair Gaming K70 LUX RGB](http://a.co/hzH0ngF)
+* [Logitech HD Pro Webcam C920](https://www.amazon.com/dp/B006JH8T3S/)
 * [Logitech G502 Proteus Core](http://a.co/de3nhKv)
 * [Corsair Gaming MM400](http://a.co/cE8WvFS)
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
