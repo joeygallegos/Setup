@@ -9,6 +9,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 
 # Television
 * [Samsung 6 Series UN50MU6300F 4K UHD TV 50"](http://a.co/aR400UT)
+* [Mounting Dream Full Motion TV Mount](https://www.amazon.com/dp/B00QOPG5MC/)
 * [Fire TV Stick with Alexa Voice Remote](http://a.co/iHjJC9u)
 * [PlayStation Vue](https://www.playstation.com/en-us/network/vue/v)
 
@@ -22,6 +23,8 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Corsair CW-9060025-WW Hydro Series H100i v2](http://a.co/bYkMzBy)
 * [EVGA Z170 FTW](http://a.co/cvEDMvy)
 * [Intel Core i7 7700K 4.20 GHz Unlocked](http://a.co/eCuHqY5)
+* [ASUS VG278QR 27"](https://www.amazon.com/dp/B07XV1519W/)
+* 2x [ASUS VN248Q-P 23.8"](https://www.amazon.com/dp/B010VG2456/)
 * TP-LINK TL-WDN4800
 
 # Accessories
