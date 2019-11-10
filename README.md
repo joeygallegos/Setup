@@ -44,6 +44,8 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
 * [Microsoft Arc Mouse (ELG-00001) Black](https://www.amazon.com/dp/B072FG8LBV/)
 
+# Laptop
+* [NP350E7C-A01US](https://www.amazon.com/dp/B00BBO0Z7W)
 
 # Useful Applications
 * [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
