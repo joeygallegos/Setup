@@ -21,7 +21,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 # Desktop Specs
 * [Corsair Vengeance RGB LED 16GB (2x8GB) DDR4 3000](http://a.co/0P0bpPD)
 * [ASUS GeForce RTX 2070 Overclocked O8G GDDR6](https://www.amazon.com/GeForce-Overclocked-Type-C-Graphic-ROG-STRIX-RTX2070-O8G-GAMING/dp/B07JFYT2KD/ref=sr_1_6)
-* [Corsair CW-9060025-WW Hydro Series H100i v2](http://a.co/bYkMzBy)
+* [NZXT Kraken X62 280mm](https://smile.amazon.com/dp/B06XX8Q1CL/ref=cm_sw_em_r_mt_dp_U_r2sfEbR3S6GB5)
 * [CORSAIR TX650M](https://www.amazon.com/dp/B01N18J52E/)
 * [Intel Core i7 7700K 4.20 GHz Unlocked](http://a.co/eCuHqY5)
 * [ROG MAXIMUS IX HERO Motherboard](https://www.asus.com/Motherboards/ROG-MAXIMUS-IX-HERO/)
