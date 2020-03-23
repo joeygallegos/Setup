@@ -19,9 +19,11 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Canon EOS Rebel T5 EF-S 18-55mm](https://www.amazon.com/gp/product/B016SN90HQ)
 
 # Desktop Specs
+* [Corsair Crystal 570X RGB Mid-Tower Case](https://www.amazon.com/gp/product/B01LE0ZKR2/)
+* [Corsair CO-9050059-WW SP Series, SP120 RGB LED](https://www.amazon.com/gp/product/B01LHYI374/)
 * [Corsair Vengeance RGB LED 16GB (2x8GB) DDR4 3000](http://a.co/0P0bpPD)
-* [ASUS GeForce RTX 2070 Overclocked O8G GDDR6](https://www.amazon.com/GeForce-Overclocked-Type-C-Graphic-ROG-STRIX-RTX2070-O8G-GAMING/dp/B07JFYT2KD/ref=sr_1_6)
-* [NZXT Kraken X62 280mm](https://smile.amazon.com/dp/B06XX8Q1CL/ref=cm_sw_em_r_mt_dp_U_r2sfEbR3S6GB5)
+* [ASUS GeForce RTX 2070 Overclocked O8G GDDR6](https://www.amazon.com/GeForce-Overclocked-Type-C-Graphic-ROG-STRIX-RTX2070-O8G-GAMING/dp/B07JFYT2KD/)
+* [NZXT Kraken X72 360mm](https://www.amazon.com/gp/product/B079J2N8Q8/)
 * [CORSAIR TX650M](https://www.amazon.com/dp/B01N18J52E/)
 * [Intel Core i7 7700K 4.20 GHz Unlocked](http://a.co/eCuHqY5)
 * [ROG MAXIMUS IX HERO Motherboard](https://www.asus.com/Motherboards/ROG-MAXIMUS-IX-HERO/)
@@ -30,7 +32,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * 2x [ASUS VN248Q-P 23.8"](https://www.amazon.com/dp/B010VG2456/)
 * TP-LINK TL-WDN4800
 
-# Accessories
+# Peripherals
 * [Corsair Gaming K70 LUX RGB](http://a.co/hzH0ngF)
 * [Logitech HD Pro Webcam C920](https://www.amazon.com/dp/B006JH8T3S/)
 * [Logitech G502 Proteus Core](http://a.co/de3nhKv)
@@ -43,6 +45,9 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 * [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
 * [Microsoft Arc Mouse (ELG-00001) Black](https://www.amazon.com/dp/B072FG8LBV/)
+
+# Accessories
+* [Khanka Universal Electronics Accessories Carrying Travel Organizer](https://www.amazon.com/gp/product/B014F5093S/)
 
 # Laptop
 * [NP350E7C-A01US](https://www.amazon.com/dp/B00BBO0Z7W)
