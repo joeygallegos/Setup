@@ -51,6 +51,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
 * Dropbox
 * [AudioSwitch](https://github.com/sirWest/AudioSwitch)
+* [Scoop](https://scoop.sh/)
 
 # Gaming Applications
 * [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
