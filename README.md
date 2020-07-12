@@ -7,6 +7,17 @@ All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and 
 ### Funny Repository
 There is this funny repository that I suggest any visitor check out: [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 
+# Development Applications
+* VS Code with [Moonlight II](https://github.com/atomiks/moonlight-vscode-theme)
+* Git Bash
+* Github Desktop
+* Composer
+* MAMP
+* PuTTY
+* SQL Developer
+* [Postman](https://www.getpostman.com/apps)
+* [HeidiSQL](https://www.heidisql.com/)
+
 # Television
 * [Samsung 6 Series UN50MU6300F 4K UHD TV 50"](http://a.co/aR400UT)
 * [Google Chromecast (3rd Generation)](https://www.amazon.com/dp/B015UKRNGS/)
@@ -59,20 +70,6 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [ASUS GPU TweakII](https://www.asus.com/us/site/graphics-cards/gpu-tweak-ii/)
 * [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 
-# Development Applications
-* Sublime Text
-* [VS Code](https://code.visualstudio.com/) (For C/C# programming)
-* Git Bash
-* Github Desktop
-* Composer
-* MAMP
-* PuTTY
-* SQL Developer
-* Crystal Reports
-* [Postman](https://www.getpostman.com/apps)
-* [HeidiSQL](https://www.heidisql.com/)
-* [PopSQL](https://popsql.io/)
-
 # Sublime Text Tools
 - [Jam](https://github.com/joeygallegos/Jam)
 - [SQLTools](http://code.mteixeira.me/SQLTools/)
@@ -82,4 +79,4 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 - [GitGutter](https://github.com/jisaacks/GitGutter)
 
 ### Sublime Text Theme
-I use [Jam](https://github.com/joeygallegos/Jam) as my theme in Sublime Text. It's one I created inspired by some design I saw a couple of years back. I still use it on all my devices and occasionally update the colors to a newer design.
+I created [Jam](https://github.com/joeygallegos/Jam), my own custom Sublime Text theme. It's inspired by a design I saw a couple of years back and really liked. I've since moved over to VS Code now, and I no longer use Sublime Text.
