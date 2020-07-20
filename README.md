@@ -7,16 +7,16 @@ All my code is stored in Dropbox and synced between my iPad, iPhone, Laptop and 
 ### Funny Repository
 There is this funny repository that I suggest any visitor check out: [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
 
-# Development Applications
+# Development Tools
 * VS Code with [Moonlight II](https://github.com/atomiks/moonlight-vscode-theme)
 * Git Bash
 * Github Desktop
 * Composer
 * MAMP
 * PuTTY
-* SQL Developer
 * [Postman](https://www.getpostman.com/apps)
 * [HeidiSQL](https://www.heidisql.com/)
+* [Scoop](https://scoop.sh/)
 
 # Television
 * [Samsung 6 Series UN50MU6300F 4K UHD TV 50"](http://a.co/aR400UT)
@@ -67,7 +67,6 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
 * Dropbox
 * [AudioSwitch](https://github.com/sirWest/AudioSwitch)
-* [Scoop](https://scoop.sh/)
 
 # Gaming Applications
 * [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
