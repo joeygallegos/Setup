@@ -37,7 +37,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [NZXT Kraken X72 360mm](https://www.amazon.com/gp/product/B079J2N8Q8/)
 * [CORSAIR TX650M](https://www.amazon.com/dp/B01N18J52E/)
 * [Intel Core i7 7700K 4.20 GHz Unlocked](http://a.co/eCuHqY5)
-* [ROG MAXIMUS IX HERO Motherboard](https://www.asus.com/Motherboards/ROG-MAXIMUS-IX-HERO/)
+* [ROG STRIX X470-F GAMING](https://www.asus.com/us/Motherboards/ROG-STRIX-X470-F-GAMING/)
 * [Samsung SSD 860 EVO 250GB](https://www.amazon.com/dp/B07864WMK8/)
 * [ASUS VG278QR 27"](https://www.amazon.com/dp/B07XV1519W/)
 * 2x [ASUS VN248Q-P 23.8"](https://www.amazon.com/dp/B010VG2456/)
