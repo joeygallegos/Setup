@@ -51,11 +51,14 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
 * [Sony MDRXB50AP Extra Bass Earbuds](http://a.co/3FyBACN)
 * [Logitech G433 7.1 Wired Gaming Headset](http://a.co/781EA7I)
-* [Marantz Professional MPM-1000U](http://a.co/jdhlal3)
-* [Focusrite Scarlett Solo](http://a.co/1pEmPvE)
 * [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 * [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
 * [Microsoft Arc Mouse (ELG-00001) Black](https://www.amazon.com/dp/B072FG8LBV/)
+
+# Microphone
+* [Behringer Xenyx 302USB Mixer](https://www.amazon.com/Behringer-302USB-Premium-5-Input-Interface/dp/B005EHILV4/)
+* [Stellar X2 Large Diaphragm](https://www.amazon.com/gp/product/B07ZVHBFNJ/)
+* [sE Electronics DM1 Dynamite Preamp](https://www.amazon.com/gp/product/B07JNK3HHH/)
 
 # Accessories
 * [Khanka Universal Electronics Accessories Carrying Travel Organizer](https://www.amazon.com/gp/product/B014F5093S/)
