@@ -54,6 +54,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 * [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
 * [Microsoft Arc Mouse (ELG-00001) Black](https://www.amazon.com/dp/B072FG8LBV/)
+* [APC Power Saving Back-UPS Pro 1500](https://www.apc.com/shop/us/en/products/APC-Power-Saving-Back-UPS-Pro-1500/P-BR1500G)
 
 # Microphone
 * [Behringer Xenyx 302USB Mixer](https://www.amazon.com/Behringer-302USB-Premium-5-Input-Interface/dp/B005EHILV4/)
