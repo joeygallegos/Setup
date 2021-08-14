@@ -50,7 +50,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Corsair Gaming MM400](http://a.co/cE8WvFS)
 * [SINJIMORU iPhone Dock](http://a.co/2tKGiyW)
 * [Sony MDRXB50AP Extra Bass Earbuds](http://a.co/3FyBACN)
-* [Logitech G433 7.1 Wired Gaming Headset](http://a.co/781EA7I)
+* [Logitech G PRO X Wireless](https://www.logitechg.com/en-us/products/gaming-audio/pro-x-wireless-headset.981-000906.html)
 * [Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
 * [AVerMedia RECentral](http://www.avermedia.com/gaming/product/game_capture/live_gamer_hd)
 * [Microsoft Arc Mouse (ELG-00001) Black](https://www.amazon.com/dp/B072FG8LBV/)
