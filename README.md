@@ -36,7 +36,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [ASUS GeForce RTX 2070 Overclocked O8G GDDR6](https://www.amazon.com/GeForce-Overclocked-Type-C-Graphic-ROG-STRIX-RTX2070-O8G-GAMING/dp/B07JFYT2KD/)
 * [NZXT Kraken X72 360mm](https://www.amazon.com/gp/product/B079J2N8Q8/)
 * [CORSAIR TX650M](https://www.amazon.com/dp/B01N18J52E/)
-* [Intel Core i7 7700K 4.20 GHz Unlocked](http://a.co/eCuHqY5)
+* [AMD Ryzen 7 2700X](https://www.amazon.com/AMD-Ryzen-Processor-Wraith-Cooler/dp/B07B428M7F/)
 * [ROG STRIX X470-F GAMING](https://www.asus.com/us/Motherboards/ROG-STRIX-X470-F-GAMING/)
 * [Samsung SSD 860 EVO 250GB](https://www.amazon.com/dp/B07864WMK8/)
 * [ASUS VG278QR 27"](https://www.amazon.com/dp/B07XV1519W/)
