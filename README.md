@@ -65,6 +65,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 
 # Accessories
 * [Khanka Universal Electronics Accessories Carrying Travel Organizer](https://www.amazon.com/gp/product/B014F5093S/)
+* [ULTIMATE EARS WONDERBOOM 2](https://www.amazon.com/dp/B07NFRCK7J/)
 
 # Laptop
 * [NP350E7C-A01US](https://www.amazon.com/dp/B00BBO0Z7W)
