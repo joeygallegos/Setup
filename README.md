@@ -39,9 +39,11 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [AMD Ryzen 7 2700X](https://www.amazon.com/AMD-Ryzen-Processor-Wraith-Cooler/dp/B07B428M7F/)
 * [ROG STRIX X470-F GAMING](https://www.asus.com/us/Motherboards/ROG-STRIX-X470-F-GAMING/)
 * [Samsung SSD 860 EVO 250GB](https://www.amazon.com/dp/B07864WMK8/)
+* TP-LINK TL-WDN4800
+
+## Monitors
 * [ASUS VG278QR 27"](https://www.amazon.com/dp/B07XV1519W/)
 * 2x [ASUS VN248Q-P 23.8"](https://www.amazon.com/dp/B010VG2456/)
-* TP-LINK TL-WDN4800
 
 # Peripherals
 * [Corsair Gaming K70 LUX RGB](http://a.co/hzH0ngF)
