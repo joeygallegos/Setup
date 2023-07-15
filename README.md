@@ -27,7 +27,6 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 
 # Camera
 * [PANASONIC LUMIX GX85 4K Digital Camera](https://www.amazon.com/gp/product/B079VDF7ZG)
-* [Canon EOS Rebel T5 EF-S 18-55mm](https://www.amazon.com/gp/product/B016SN90HQ)
 
 # Desktop Specs
 * [Corsair Crystal 570X RGB Mid-Tower Case](https://www.amazon.com/gp/product/B01LE0ZKR2/)
