@@ -45,7 +45,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * 2x [ASUS VN248Q-P 23.8"](https://www.amazon.com/dp/B010VG2456/)
 
 # Peripherals
-* [Corsair Gaming K70 LUX RGB](http://a.co/hzH0ngF)
+* [Keychron Q6 QMK Custom Mechanical Keyboard]([http://a.co/hzH0ngF](https://www.keychron.com/products/keychron-q6-qmk-custom-mechanical-keyboard?variant=39990023487577))
 * [Logitech HD Pro Webcam C920](https://www.amazon.com/dp/B006JH8T3S/)
 * [Logitech G502 Proteus Core](http://a.co/de3nhKv)
 * [Sony MDRXB50AP Extra Bass Earbuds](http://a.co/3FyBACN)
