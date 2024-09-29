@@ -60,7 +60,6 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 # Microphone
 * [Behringer Xenyx 302USB Mixer](https://www.amazon.com/Behringer-302USB-Premium-5-Input-Interface/dp/B005EHILV4/)
 * [Stellar X2 Large Diaphragm](https://www.amazon.com/gp/product/B07ZVHBFNJ/)
-* [sE Electronics DM1 Dynamite Preamp](https://www.amazon.com/gp/product/B07JNK3HHH/)
 
 # Accessories
 * [Khanka Universal Electronics Accessories Carrying Travel Organizer](https://www.amazon.com/gp/product/B014F5093S/)
