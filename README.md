@@ -14,7 +14,6 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * Composer
 * MAMP
 * PuTTY
-* [Postman](https://www.getpostman.com/apps)
 * [HeidiSQL](https://www.heidisql.com/)
 * [Scoop](https://scoop.sh/)
 
@@ -33,6 +32,7 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Corsair CO-9050059-WW SP Series, SP120 RGB LED](https://www.amazon.com/gp/product/B01LHYI374/)
 * [Corsair Vengeance RGB LED 16GB (2x8GB) DDR4 3000](http://a.co/0P0bpPD)
 * [ASUS GeForce RTX 2070 Overclocked O8G GDDR6](https://www.amazon.com/GeForce-Overclocked-Type-C-Graphic-ROG-STRIX-RTX2070-O8G-GAMING/dp/B07JFYT2KD/)
+* NEW [ASUS NVIDIA GeForce RTX 3080 Ti TUF Overclocked 12GB GDDR6X](https://www.microcenter.com/product/673141/NVIDIA_GeForce_RTX_3080_Ti_TUF_Overclocked_Triple-Fan_12GB_GDDR6X_PCIe_40_Graphics_Card_(Refurbished))
 * [NZXT Kraken X72 360mm](https://www.amazon.com/gp/product/B079J2N8Q8/)
 * [CORSAIR TX650M](https://www.amazon.com/dp/B01N18J52E/)
 * [AMD Ryzen 7 2700X](https://www.amazon.com/AMD-Ryzen-Processor-Wraith-Cooler/dp/B07B428M7F/)
@@ -65,8 +65,9 @@ There is this funny repository that I suggest any visitor check out: [hacker-scr
 * [Khanka Universal Electronics Accessories Carrying Travel Organizer](https://www.amazon.com/gp/product/B014F5093S/)
 * [ULTIMATE EARS WONDERBOOM 2](https://www.amazon.com/dp/B07NFRCK7J/)
 
-# Laptop
+# On the go
 * [NP350E7C-A01US](https://www.amazon.com/dp/B00BBO0Z7W)
+* [iPad Pro 13-inch M4 Chip](https://www.costco.com/p/-/ipad-pro-13-inch-256gb-wi-fi-cellular-m4-chip-built-for-apple-intelligence/4000370120)
 
 # Useful Applications
 * [Wallcat](https://github.com/PaitoAnderson/WallcatWindows)
